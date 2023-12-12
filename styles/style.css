@@ -1,0 +1,5 @@
+body {
+    background-color: rgb(140, 0, 255);
+    /* Puedes ajustar el tono de azul según tus preferencias */
+    color: rgb(255, 255, 255); /* Esto establece el color del texto en blanco para que sea legible en el fondo azul */
+}
